@@ -4,7 +4,7 @@ I’m passionate about cybersecurity, building impactful projects and learning e
 ---
 
 ### 🔧 **What I’m Working On**
-- 🌐 Building my own cybersecurity Arch-based distribution, with up-to-date tech and modern features
+- 🛡️ Building my own cybersecurity Arch-based distribution, with up-to-date tech and modern features
 - 🛡️ Analyzing malware and how various bits and pieces interact with old & modern OS'es
 - 🎓 Finalizing my **Bachelor's degree project** with a focus on [Filesless Malware].
 
