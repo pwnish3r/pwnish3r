@@ -4,7 +4,7 @@ I’m passionate about cybersecurity, building impactful projects and learning e
 ### **My Projects**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnish3r&repo=SecuArch&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/pwnish3r/SecuArch) </br> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnish3r&repo=malware-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/pwnish3r/malware-analysis) </br> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnish3r&repo=cybersec-cherry&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/pwnish3r/cybersec-cherry) </br> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnish3r&repo=cybersecurity-writeups&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/pwnish3r/cybersecurity-writeups) </br> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnish3r&repo=honeypot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/pwnish3r/honeypot)
 ---
 
