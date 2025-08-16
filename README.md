@@ -8,10 +8,14 @@ I’m passionate about cybersecurity, building impactful projects and learning e
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnish3r&repo=honeypot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/pwnish3r/honeypot)
 ---
 
-### 🔧 **What I’m Working On**
-- 🛡️ Building my own cybersecurity Arch-based distribution, with up-to-date tech and modern features
-- 🛡️ Analyzing malware and how various bits and pieces interact with old & modern OS'es
-- 🎓 Finalizing my **Bachelor's degree project** with a focus on **Fileless Malware**.
+### 🔧 **What I'm focusing on right now**
+- 🛡️ Integrating Machine Learning in my cybersecurity workflow
+- 🛡️ Learning Reverse Engineering for x86 and ARM
+- 🛠️ Exploring weird programming languages for various CyberSec operations
+
+### 🔧 **What I Worked On**
+- 🛡️ Build my own cybersecurity Arch-based distribution, with up-to-date tech and modern features
+- 🎓 Finalized my **Bachelor's degree project** with a focus on **Fileless Malware** and **Rust Shell Injection**.
 
 ---
 
